@@ -2,21 +2,31 @@
 {
   "proRelMode" : "vertical",
   "promotionRoutes" : {
-    "NWST" : "LAKES",
-    "PLNS" : "COWBY",
-    "EAST" : "PACIF",
-    "MATL" : "NORTH",
-    "GULF" : "SOUTH",
-    "MRVR" : "MOUNT"
+    "TWEL" : "ELEV",
+    "ELEV" : "TEN",
+    "TEN" : "NINE",
+    "NINE" : "EIGH",
+    "EIGH" : "SEVE",
+    "SEVE" : "SIX",
+    "SIX" : "FIVE",
+    "FIVE" : "FOUR",
+    "FOUR" : "THRE",
+    "THRE" : "TWO",
+    "TWO" : "ONE"
   },
   "baseYear" : 2022,
   "relegationRoutes" : {
-    "NWST" : "LAKES",
-    "PLNS" : "COWBY",
-    "EAST" : "PACIF",
-    "MATL" : "NORTH",
-    "GULF" : "SOUTH",
-    "MRVR" : "MOUNT"
+    "ONE" : "TWO",
+    "TWO" : "THRE",
+    "THRE" : "FOUR",
+    "FOUR" : "FIVE",
+    "FIVE" : "SIX",
+    "SIX" : "SEVE",
+    "SEVE" : "EIGH",
+    "EIGH" : "NINE",
+    "NINE" : "TEN",
+    "TEN" : "ELEV",
+    "ELEV" : "TWEL",
   },
   "conferences" : [
     {
@@ -582,9 +592,9 @@
           "state" : "Kentucky"
         }
       ],
-      "confFullName" : "Southern",
+      "confFullName" : "One",
       "confPrestige" : "90",
-      "confName" : "SOUTH"
+      "confName" : "ONE"
     },
     {
       "confTeams" : [
@@ -1149,9 +1159,9 @@
           "state" : "Wisconsin"
         }
       ],
-      "confFullName" : "Lakes",
+      "confFullName" : "Two",
       "confPrestige" : "90",
-      "confName" : "LAKES"
+      "confName" : "TWO"
     },
     {
       "confTeams" : [
@@ -1716,9 +1726,9 @@
           "state" : "Vermont"
         }
       ],
-      "confFullName" : "North",
+      "confFullName" : "Three",
       "confPrestige" : "80",
-      "confName" : "NORTH"
+      "confName" : "THRE"
     },
     {
       "confTeams" : [
@@ -2283,9 +2293,9 @@
           "state" : "Texas"
         }
       ],
-      "confFullName" : "Cowboy",
+      "confFullName" : "Four",
       "confPrestige" : "85",
-      "confName" : "COWBY"
+      "confName" : "FOUR"
     },
     {
       "confTeams" : [
@@ -2850,9 +2860,9 @@
           "state" : "American Samoa"
         }
       ],
-      "confFullName" : "Pacific",
+      "confFullName" : "FIVE",
       "confPrestige" : "80",
-      "confName" : "PACIF"
+      "confName" : "FIVE"
     },
     {
       "confTeams" : [
@@ -3417,9 +3427,9 @@
           "state" : "Arizona"
         }
       ],
-      "confFullName" : "Mountain",
+      "confFullName" : "SIX",
       "confPrestige" : "75",
-      "confName" : "MOUNT"
+      "confName" : "SIX"
     },
     {
       "confTeams" : [
@@ -3984,9 +3994,9 @@
           "state" : "Texas"
         }
       ],
-      "confFullName" : "Gulf Coast",
+      "confFullName" : "SEVEN",
       "confPrestige" : "75",
-      "confName" : "GULF"
+      "confName" : "SEVE"
     },
     {
       "confTeams" : [
@@ -4551,9 +4561,9 @@
           "state" : "California"
         }
       ],
-      "confFullName" : "Northwest",
+      "confFullName" : "Eight",
       "confPrestige" : "70",
-      "confName" : "NWST"
+      "confName" : "EIGH"
     },
     {
       "confTeams" : [
@@ -5118,9 +5128,9 @@
           "state" : "Pennsylvania"
         }
       ],
-      "confFullName" : "Mid Atlantic",
+      "confFullName" : "NINE",
       "confPrestige" : "70",
-      "confName" : "MATL"
+      "confName" : "NINE"
     },
     {
       "confTeams" : [
@@ -5685,9 +5695,9 @@
           "state" : "Ohio"
         }
       ],
-      "confFullName" : "Plains",
+      "confFullName" : "TEN",
       "confPrestige" : "65",
-      "confName" : "PLNS"
+      "confName" : "TEN"
     },
     {
       "confTeams" : [
@@ -6252,9 +6262,9 @@
           "state" : "Kentucky"
         }
       ],
-      "confFullName" : "Eastern",
+      "confFullName" : "ELEVEN",
       "confPrestige" : "70",
-      "confName" : "EAST"
+      "confName" : "ELEV"
     },
     {
       "confTeams" : [
@@ -6819,9 +6829,9 @@
           "state" : "Kansas"
         }
       ],
-      "confFullName" : "Mississippi River",
+      "confFullName" : "Twelve",
       "confPrestige" : "60",
-      "confName" : "MRVR"
+      "confName" : "TWEL"
     }
   ],
   "bowlGames" : [
