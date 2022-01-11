@@ -1,6 +1,6 @@
 
 {
-  "proRelMode" : "vertical" ,
+  "proRelMode" : "vertical",
   "promotionRoutes" : {
     "NWST" : "LAKES",
     "PLNS" : "COWBY",
@@ -11,12 +11,12 @@
   },
   "baseYear" : 2022,
   "relegationRoutes" : {
-    "NORTH" : "MATL",
-    "PACIF" : "EAST",
-    "LAKES" : "NWST",
-    "COWBY" : "PLNS",
-    "SOUTH" : "GULF",
-    "MOUNT" : "MRVR"
+    "NWST" : "LAKES",
+    "PLNS" : "COWBY",
+    "EAST" : "PACIF",
+    "MATL" : "NORTH",
+    "GULF" : "SOUTH",
+    "MRVR" : "MOUNT"
   },
   "conferences" : [
     {
