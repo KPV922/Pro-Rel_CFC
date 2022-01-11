@@ -2,20 +2,6 @@
 {
   "proRelMode" : "vertical",
   "promotionRoutes" : {
-    "TWEL" : "ELEV",
-    "ELEV" : "TEN",
-    "TEN" : "NINE",
-    "NINE" : "EIGH",
-    "EIGH" : "SEVE",
-    "SEVE" : "SIX",
-    "SIX" : "FIVE",
-    "FIVE" : "FOUR",
-    "FOUR" : "THRE",
-    "THRE" : "TWO",
-    "TWO" : "ONE"
-  },
-  "baseYear" : 2022,
-  "relegationRoutes" : {
     "ONE" : "TWO",
     "TWO" : "THRE",
     "THRE" : "FOUR",
@@ -27,6 +13,20 @@
     "NINE" : "TEN",
     "TEN" : "ELEV",
     "ELEV" : "TWEL"
+  },
+  "baseYear" : 2022,
+  "relegationRoutes" : {
+    "TWEL" : "ELEV",
+    "ELEV" : "TEN",
+    "TEN" : "NINE",
+    "NINE" : "EIGH",
+    "EIGH" : "SEVE",
+    "SEVE" : "SIX",
+    "SIX" : "FIVE",
+    "FIVE" : "FOUR",
+    "FOUR" : "THRE",
+    "THRE" : "TWO",
+    "TWO" : "ONE"
   },
   "conferences" : [
     {
