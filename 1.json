@@ -2,12 +2,12 @@
 {
   "proRelMode" : "vertical",
   "promotionRoutes" : {
-    "TWEL" : "ELEV",
-    "TEN" : "NINE",
-    "EIGH" : "SEVE",
-    "SIX" : "FIVE",
-    "FOUR" : "THRE",
-    "TWO" : "ONE"
+    "ONE" : "TWO",
+    "THRE" : "FOUR",
+    "FIVE" : "SIX",
+    "SEVE" : "EIGH",
+    "NINE" : "TEN",
+    "ELEV" : "TWEL"
   },
   "baseYear" : 2022,
   "relegationRoutes" : {
