@@ -1,5 +1,6 @@
 
 {
+  "proRelMode" : "vertical" ,
   "promotionRoutes" : {
     "NWST" : "LAKES",
     "PLNS" : "COWBY",
